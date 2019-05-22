@@ -6,7 +6,7 @@ setup(name='dateinfer',
       long_description="""Uses a series of pattern matching and rewriting rules to compute a "best guess" datetime.strptime format string give a list of example date strings.""",
       author='Jeffrey Starr',
       author_email='jeffrey.starr@ztoztechnologies.com',
-      url='https://github.com/jeffreystarr/dateinfer',
+      url='https://github.com/marioalop/dateinfer',
       packages=['dateinfer'],
       classifiers=[
           'Development Status :: 4 - Beta',
